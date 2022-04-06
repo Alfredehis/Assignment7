@@ -1,0 +1,23 @@
+/* First Section  */
+body {background-color: burlywood}
+.container{ border: 5px solid green; 
+    margin: 20px 30px 60px; 
+    padding: 20px 20px; background-color: aliceblue;
+    border-radius:  20px ;}
+
+    .container ul li {background-color: rgb(118, 208, 235); 
+        margin: 2px 2px 2px 2px;}
+
+/* Second Section */
+.container-two {border: 5px solid green; 
+    margin: 20px 30px 60px; 
+    padding: 20px 20px; background-color: rgb(174, 153, 224);
+    border-radius:  20px;}
+.h3 {color: red;"}
+
+.container-new {border: 5px solid green; 
+    margin: 20px 30px 60px; 
+    padding: 20px 20px; background-color: rgb(174, 153, 224);
+    border-radius:  20px;}
+.h3 {color: red;"}
+
